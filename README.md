@@ -17,10 +17,10 @@ Note: if the senha.txt file already exists, the new passwords will be appended t
 
 **Requirements**
 bult-in libraries:
-*random
-*string
-*datetime
-*os
+-random
+-string
+-datetime
+-os
 
 ------------------
 
@@ -41,7 +41,7 @@ Nota: se o arquivo senha.txt já existir, as novas senhas serão anexadas ao fin
 
 **Requisitos**
 bibliotecas internas:
-*random
-*string
-*datetime
-*os
+-random
+-string
+-datetime
+-os
